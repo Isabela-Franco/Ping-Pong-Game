@@ -6,7 +6,7 @@ pygame.init()
 
 LARGURA, ALTURA = 530, 650
 TELA = pygame.display.set_mode((LARGURA, ALTURA))
-pygame.display.set_caption('Jogo Ping Pong')
+pygame.display.set_caption('Ping Pong Game')
 
 #Cores
 FUNDO = (20, 20, 30)
